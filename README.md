@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Lehlohonolo 👋
 
+📍 Braamfontein, South Africa
+🛠️ Back-End + Data Engineering · FastAPI · SQLAlchemy · Celery · scikit-learn
+🎓 ALX Back-End Engineering & Data Science
+💼 Open to junior/mid Back-End and Data roles
+📌 Pinned: [task-management-api](https://github.com/Hloni123252/task-management-api) · [ecommerce-analytics-api](https://github.com/Hloni123252/ecommerce-analytics-api)
 <!--
 **Hloni123252/Hloni123252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
